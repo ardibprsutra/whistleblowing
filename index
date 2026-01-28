@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Whistleblowing System | PT BPR Bunga Sutra Mas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header img {
+            max-width: 160px;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 20px;
+            margin: 5px 0;
+            font-weight: bold;
+        }
+
+        .header p {
+            font-size: 14px;
+            margin: 0;
+            color: #666;
+        }
+
+        .divider {
+            height: 1px;
+            background: #ddd;
+            margin: 25px 0;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            text-align: center;
+            padding: 14px;
+            font-size: 16px;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .btn-blue {
+            background-color: #2f80ed;
+        }
+
+        .btn-green {
+            background-color: #12b886;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #2f80ed;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+        .content {
+            font-size: 14px;
+            line-height: 1.7;
+            color: #444;
+        }
+
+        ul {
+            padding-left: 20px;
+            font-size: 14px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .footer-note {
+            margin-top: 30px;
+            font-size: 13px;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- HEADER -->
+    <div class="header">
+        <img src="assets/logo.png" alt="Logo BPR Sutra">
+        <h1>PT. BPR BUNGA SUTRA MAS</h1>
+        <p>Jl. Dr. Ir. Soekarno No. 105X Kediri Tabanan</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- BUTTONS -->
+    <a href="LINK_FORM_ADUAN" class="btn btn-blue">
+        📢 Buat Aduan  
+        <br><small>Klik di sini untuk buat aduan pelanggaran</small>
+    </a>
+
+    <a href="LINK_LACAK_ADUAN" class="btn btn-green">
+        🔍 Lacak Progress Aduan  
+        <br><small>Klik di sini untuk melacak aduan pelanggaran Anda</small>
+    </a>
+
+    <!-- TENTANG WBS -->
+    <div class="section-title">📌 Tentang Whistleblowing System</div>
+    <div class="content">
+        Whistleblowing System (WBS) berfungsi untuk melaporkan atau menginformasikan
+        suatu perbuatan yang terindikasi pelanggaran di lingkungan PT. BPR BUNGA SUTRA MAS.
+        <br><br>
+        WBS adalah mekanisme penyampaian pengaduan dugaan tindak pidana tertentu
+        yang telah terjadi atau akan terjadi yang melibatkan pegawai dan orang lain
+        yang dilakukan dalam organisasi tempatnya bekerja, dimana pelapor bukan merupakan
+        bagian dari pelaku kejahatan yang dilaporkannya.
+    </div>
+
+    <!-- UNSUR PENGADUAN -->
+    <div class="section-title">📋 Unsur Pengaduan</div>
+    <ul>
+        <li><b>WHAT</b> : Apa perbuatan berindikasi Tindak Pidana Korupsi/pelanggaran yang diketahui.</li>
+        <li><b>WHO</b> : Siapa yang bertanggungjawab/terlibat dalam perbuatan tersebut.</li>
+        <li><b>WHERE</b> : Dimana tempat terjadinya perbuatan tersebut dilakukan.</li>
+        <li><b>WHEN</b> : Kapan waktu perbuatan tersebut dilakukan.</li>
+        <li><b>HOW</b> : Bagaimana cara perbuatan tersebut dilakukan (modus, cara, dan sebagainya).</li>
+        <li><b>EVIDENCE</b> : Bukti permulaan (data, dokumen, gambar, rekaman) yang mendukung.</li>
+    </ul>
+
+    <!-- KOMITMEN -->
+    <div class="section-title">🔒 Komitmen dan Jaminan Kerahasiaan</div>
+    <div class="footer-note">
+        Anda tidak perlu khawatir terungkapnya identitas diri Anda karena kami akan
+        <b>MERAHASIAKAN & MELINDUNGI</b> identitas Anda sebagai whistleblower.
+        <br><br>
+        PT. BPR BUNGA SUTRA MAS sangat menghargai informasi yang Anda laporkan.
+        Fokus kami kepada materi informasi yang Anda laporkan.
+        Sebagai bentuk terimakasih terhadap laporan yang Anda kirim,
+        kami berkomitmen untuk merespon laporan Anda sesegera mungkin.
+    </div>
+
+</div>
+
+</body>
+</html>
